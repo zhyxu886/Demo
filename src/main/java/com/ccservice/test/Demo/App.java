@@ -17,4 +17,8 @@ public class App
     	System.out.println("4455444565465");
     	
     }
+    
+    public void test1(){
+    	System.out.println("test");
+    }
 }
